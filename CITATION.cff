@@ -2,7 +2,7 @@ cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Jahncke"
-  given-names: "Jennifer"
+  given-names: "Jennifer N"
   orcid: "https://orcid.org/0000-0003-2319-6109"
 title: "Mini Analysis Code"
 version: 1.0.0
